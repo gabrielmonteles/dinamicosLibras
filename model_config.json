@@ -1,8 +1,6 @@
 {
   "num_classes": 6,
   "max_len": 30,
-  "cnn_output_size": 100352,
   "hidden_size": 128,
-  "input_mode": "landmarks",
   "landmark_input_size": 225
 }
